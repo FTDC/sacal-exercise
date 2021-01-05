@@ -16,7 +16,16 @@ object test {
       print(i + "\n")
     }
 
-    print("name" + age)
+    print("name" + age + " new ------------- \n")
+
+
+    for (i <- Range(1, 20, 3)) {
+      print(i + "\n");
+    }
+
+
+
+
 
 
   }

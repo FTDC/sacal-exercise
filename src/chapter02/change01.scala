@@ -12,8 +12,6 @@ object change01 {
     print(b)
 
     //  位运算
-
-
   }
 
 }
