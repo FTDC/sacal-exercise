@@ -9,7 +9,6 @@ object collectionTuple {
     println("元素之和为: " + sum)
 
 
-
     // 元组遍历
     t.productIterator.foreach { i => println("Value = " + i) }
 
